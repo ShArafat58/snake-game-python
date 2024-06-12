@@ -1,0 +1,16 @@
+
+################ For Continuous update ################
+git status
+
+git pull origin master
+
+git add .
+
+git commit -m 'Updated This feature'
+
+git push origin master
+
+#############################################
+
+
+
